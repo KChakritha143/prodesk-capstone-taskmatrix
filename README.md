@@ -206,7 +206,7 @@ TaskMatrix provides an intuitive project management environment where users can 
 
 Figma Design Link:
 
-**To be added after wireframe completion**
+https://www.figma.com/design/aEGzAIjEwnSxMyi5A2zuX3/task-matrix-UI-design?node-id=3-2&p=f&t=s0Ssf3qaJ6Twatsz-0
 
 ---
 
