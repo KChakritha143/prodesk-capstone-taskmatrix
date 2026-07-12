@@ -1,3 +1,7 @@
+## Figma URL
+
+http://figma.com/design/aEGzAIjEwnSxMyi5A2zuX3/task-matrix-UI-design?node-id=3-2&p=f&t=q4Sj76RnTVf77G4J-0
+
 ## Authentication Screen
 
 <img width="837" height="628" alt="Screenshot 2026-07-12 193134" src="https://github.com/user-attachments/assets/d77e4e35-6590-4d30-9d5e-bce32abefd4f" />
