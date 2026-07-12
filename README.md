@@ -180,7 +180,7 @@ https://www.figma.com/design/aEGzAIjEwnSxMyi5A2zuX3/task-matrix-UI-design?node-i
 
 ## Entity Relationship Diagram
 
-<img width="1048" height="892" alt="Untitled (1)" src="https://github.com/user-attachments/assets/16dafca0-3222-4a5e-96a9-ee83fbee715f" />
+docs/ERD.png
 
 ---
 
